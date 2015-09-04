@@ -1,0 +1,13 @@
+{
+    "name": "vendor/composerpro",
+    "description": "In order to study composer",
+    "type": "composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wang.gang",
+            "email": "wang.gang@immomo.com"
+        }
+    ],
+    "require": {}
+}
